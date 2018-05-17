@@ -1,2 +1,2 @@
-# meal-spring-boot-api
+# springing
 Meal Springer
